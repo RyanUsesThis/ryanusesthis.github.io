@@ -14,11 +14,11 @@ widget1:
   text: 'Through the power of guided meditation, positive energy, and radical self-love and self-care, I Am A Goddess will help you to regain your unshakable confidence while you break through to expand your joy, health, and abundance!'
 widget2:
   title: "Clear Your Money Block"
-  url: 'https://miracle90.mykajabi.com/p/lets-connect'
+  url: 'https://miracle90.mykajabi.com/p/what-s-your-money-block'
   image: widget_MONEYBLOCK_303x182.jpg
   text: 'Do you feel stuck financially? Do you seem to lose money as soon as you receive it... Or have you hit a glass ceiling to your financial growth?'
 widget3:
-  title: "Myracle 90"
+  title: "Miracle 90"
   url: 'https://miracle90.mykajabi.com/p/lets-connect'
   image: widget_MYRACLE90_303x182.jpg
   text: 'Once you clear it all out you can finally be authentically you, creating the life of your dreams – with energy, peace, and clarity.'
