@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Vibrant Life Natural Healing</title>
-	<updated>2018-12-02T10:54:52-07:00</updated>
+	<updated>2018-12-03T14:51:41-07:00</updated>
 
 	<subtitle>VLNH Awaken in Transformation</subtitle>
 
@@ -24,6 +24,35 @@
 
 	<generator uri="http://jekyllrb.com" version="3.6.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/testimonial/AnnieTestimonial/</id>
+			<title>Annie's Miracle90 Testimonial</title>
+			<link href="http://localhost:4000/testimonial/AnnieTestimonial/" rel="alternate" type="text/html" title="Annie's Miracle90 Testimonial" />
+			<updated>2018-12-01T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Sarah</name>
+					
+					
+					
+				</author>
+			
+			<summary>I was just thinking about how much your course has already changed my life and It struck me. Most of my family will be able to benefit immensely from this. My family tree is riddled with cancer, autoimmune disease and heart disease. I mean this has the potential for creating some amazing change in my family. Thank you! I love Reiki!!! I have been immersing myself in everything reiki for the past week and I notice such a difference.</summary>
+			<content type="html" xml:base="http://localhost:4000/testimonial/AnnieTestimonial/"></content>
+
+			
+				<category term="testimonial" />
+			
+			
+				<category term="testimonial" />
+			
+
+			<published>2018-12-01T00:00:00-07:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/dummy/dummy-delete-me/</id>
@@ -139,35 +168,6 @@
 			
 
 			<published>2015-10-11T00:00:00-06:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/dummy/dummy-delete-me-copy-2/</id>
-			<title>You can delete this file</title>
-			<link href="http://localhost:4000/dummy/dummy-delete-me-copy-2/" rel="alternate" type="text/html" title="You can delete this file" />
-			<updated>2015-10-10T00:00:00-06:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Sarah</name>
-					
-					
-					
-				</author>
-			
-			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
-			<content type="html" xml:base="http://localhost:4000/dummy/dummy-delete-me-copy-2/"></content>
-
-			
-				<category term="dummy" />
-			
-			
-				<category term="dummy" />
-			
-
-			<published>2015-10-10T00:00:00-06:00</published>
 		</entry>
 	
 </feed>

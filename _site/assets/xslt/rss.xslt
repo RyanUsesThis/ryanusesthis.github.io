@@ -217,7 +217,7 @@
 
             
             
-              <li><a href="http://localhost:4000/">Start</a></li>
+              <li><a href="http://localhost:4000/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -234,24 +234,29 @@
             
 
               <li class="has-dropdown">
-                <a href="#">Dropdown Menu</a>
+                <a href="#">Services</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://localhost:4000#">Dropdown Menu 1</a></li>
+                      <li><a href="https://miracle90.mykajabi.com/p/lets-connect" target="_blank">Miracle90</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000#">Dropdown Menu 2</a></li>
+                      <li><a href="https://miracle90.mykajabi.com/store/CDqz6rSZ" target="_blank">I am a Goddess</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000#">Dropdown Menu 3</a></li>
+                      <li><a href="https://miracle90.mykajabi.com/p/what-s-your-money-block" target="_blank">Clear your Money Block</a></li>
+                    
+
+                      
+
+                      <li><a href="https://meetme.so/sarahnolan" target="_blank">Breakthrough Session</a></li>
                     
                   </ul>
                   
@@ -268,21 +273,10 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a href="http://localhost:4000/blog/">Blog</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
-                    
-                  </ul>
-                  
-              </li>
+              <li><a href="http://localhost:4000/blog/">Testimonials</a></li>
               <li class="divider"></li>
+
+            
             
           
         
