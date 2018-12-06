@@ -16,7 +16,7 @@ tags:
 image:
   header: "Annie's Miracle 90 Testimonial"
   thumb: "thumb_annie_testimonial.jpg"
-  homepage: "you-can-delete-me-homepage.png"
+  homepage: "big-story.jpg"
   caption: "Annie's Miracle90 Testimonial"
   url: ""
 ---
