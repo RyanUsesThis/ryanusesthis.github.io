@@ -14,7 +14,7 @@ tags:
 # Styling
 #
 image:
-  header: ""
+  header: "Annie's Miracle 90 Testimonial"
   thumb: "thumb_annie_testimonial.jpg"
   homepage: "you-can-delete-me-homepage.png"
   caption: "Annie's Miracle90 Testimonial"

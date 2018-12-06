@@ -445,44 +445,7 @@
           <div class="small-6 medium-3 large-3 columns">
             
               
-                <h5 class="shadow-black">Dankeschön</h5>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
             <ul class="no-bullet shadow-black">
-            
-              
-                <li >
-                  <a href=""  title=""></a>
-                </li>
-            
-              
-                <li class="network-entypo" >
-                  <a href="http://entypo.com/" target="_blank"  title="Icons by Daniel Bruce">Icons by Daniel Bruce</a>
-                </li>
-            
-              
-                <li class="services-newsletter" >
-                  <a href="http://foundation.zurb.com/" target="_blank"  title="Built on Foundation">Built on Foundation</a>
-                </li>
-            
-              
-                <li class="rss-link" >
-                  <a href="http://unsplash.com/" target="_blank"  title="Images by Unsplash">Images by Unsplash</a>
-                </li>
-            
-              
-                <li class="sitemap-link" >
-                  <a href="http://srobbin.com/jquery-plugins/backstretch/" target="_blank"  title="Using Backstretch by Scott Robbin">Using Backstretch by Scott Robbin</a>
-                </li>
             
             </ul>
           </div><!-- /.large-3.columns -->
@@ -504,11 +467,13 @@
           <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
             <ul class="inline-list">
             
-              <li><a href="http://github.com/" target="_blank" class="icon-github" title=""></a></li>
-            
               <li><a href="http://www.youtube.com/" target="_blank" class="icon-youtube" title=""></a></li>
             
               <li><a href="http://twitter.com/" target="_blank" class="icon-twitter" title=""></a></li>
+            
+              <li><a href="http://www.facebook.com/" target="_blank" class="icon-facebook" title=""></a></li>
+            
+              <li><a href="http://instagram.com/" target="_blank" class="icon-instagram" title=""></a></li>
             
             </ul>
           </section>
