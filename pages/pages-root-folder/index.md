@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Miracle 90"
   url: 'https://miracle90.mykajabi.com/p/lets-connect'
-  image: widget_MYRACLE90_303x182.jpg
+  image: widget_MIRACLE90_303x182.jpg
   text: 'Once you clear it all out you can finally be authentically you, creating the life of your dreams – with energy, peace, and clarity.'
 #
 # Use the call for action to show a button on the frontpage
